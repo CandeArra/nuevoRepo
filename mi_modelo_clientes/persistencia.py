@@ -15,7 +15,7 @@ def guardar_datos(usuarios, clientes):
             "saldo": cliente.saldo,
             "tipo": "premium" if isinstance(cliente, ClientePremium) else "normal"  # se guarda si es premium o normal
         }
-    
+    #dsad
     with open(ARCHIVO_USUARIOS, "w") as f:  
         json.dump(data, f)
     print("datos guardados correctamente.")
