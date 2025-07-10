@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mi_modelo_clientes
+Version: 1.0
+Summary: Modelo de clientes para página de compras
+Author: Candelaria Arra
+Author-email: cande@correo.com
+Classifier: Programming Language :: Python :: 3
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: summary

@@ -1,0 +1,18 @@
+{
+    "cacsacsa": {
+        "password": "cascaasc",
+        "nombre": "Arra",
+        "apellido": "candearra@22",
+        "email": 7800.0,
+        "saldo": 0.0,
+        "tipo": "normal"
+    },
+    "CandelariaAr1": {
+        "password": "Cande2005",
+        "nombre": "Arra",
+        "apellido": "candearra@gmail.com",
+        "email": 20000.0,
+        "saldo": 0.0,
+        "tipo": "premium"
+    }
+}
