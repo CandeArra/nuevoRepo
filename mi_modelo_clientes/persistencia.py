@@ -16,6 +16,8 @@ def guardar_datos(usuarios, clientes):
             "tipo": "premium" if isinstance(cliente, ClientePremium) else "normal"  # se guarda si es premium o normal
         }
     #dsad
+    # saddapip 
+    
     with open(ARCHIVO_USUARIOS, "w") as f:  
         json.dump(data, f)
     print("datos guardados correctamente.")
